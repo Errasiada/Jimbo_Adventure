@@ -50,3 +50,8 @@
 12.) Creating fruit sprites as collectables for the player.
 
 ![ANM10](https://user-images.githubusercontent.com/114673717/209099572-aeaa6e53-e8e5-4bc1-b9f0-e550de6a08a8.gif)
+
+13.) Creating a Main Menu scene with several buttons. Adding a Score to the UI.
+
+![ANM11](https://user-images.githubusercontent.com/114673717/209395051-19bcd957-687a-4c24-8500-e2c4f1d03b31.gif)
+
